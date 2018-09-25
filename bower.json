@@ -1,0 +1,17 @@
+{
+  "name": "print-js",
+  "description": "printing from the web.",
+  "main": "src/print.js",
+  "license": "MIT",
+  "keywords": [
+    "print.js",
+    "printjs"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
