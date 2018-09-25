@@ -2,7 +2,7 @@
   "name": "hlt-print",
   "homepage": "http://printjs.crabbly.com",
   "description": "printing from the web.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "dist/print.js",
   "types": "./index.d.ts",
   "repository": "git@github.com:hltfe/hlt-print.git",

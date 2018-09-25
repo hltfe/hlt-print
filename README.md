@@ -20,7 +20,7 @@ yarn add hlt-print
 ## 使用
 
 ```
-import printJS from 'print-js'
+import printJS from 'hlt-print'
 
 ```
 
